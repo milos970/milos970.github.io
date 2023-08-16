@@ -1,3 +1,7 @@
+/*
+MY CODE
+*/
+
 function changeInPortfolioPage() {
   let lan = localStorage.getItem("lang");
   if (lan === "en") {
