@@ -69,7 +69,7 @@ mapEnglish.set("description1", "");
 mapEnglish.set("title2", "VAII");
 mapEnglish.set(
   "description2",
-  "A web app partly inspired by the TV show The Lost."
+  "A web app partially inspired by the TV show The Lost."
 );
 
 mapEnglish.set("title3", "Dice");
