@@ -43,10 +43,10 @@ mapSlovak.set(
   "GUI aplikácia pre výpočet a grafovú vizualizáciu pravdepodobnosti hodu daného počtu kociek a ich súčtu."
 );
 
-mapSlovak.set("title4", "Life Is Strange");
+mapSlovak.set("title4", "Life Is Weird");
 mapSlovak.set(
   "description4",
-  "GUI aplikácia voľne inšpirovaná hrami ako Firewatch a Life Is Strange."
+  "Jednoduchá príbehová GUI aplikácia voľne inšpirovaná zážitkami z AAA hier Firewatch a Life Is Strange."
 );
 
 mapSlovak.set("title5", "AUS");
@@ -78,10 +78,10 @@ mapEnglish.set(
   "A desktop GUI application for calculation and visualization of probability for given numbers of dice and their sum."
 );
 
-mapEnglish.set("title4", "Life Is Strange");
+mapEnglish.set("title4", "Life Is Weird");
 mapEnglish.set(
   "description4",
-  "A GUI app loosely inspired by games like Firewatch and Life Is Strange."
+  "A simple story GUI app loosely inspired by the experiences of the AAA games Firewatch and Life Is Strange."
 );
 
 mapEnglish.set("title5", "AUS");
