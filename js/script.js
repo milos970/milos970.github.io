@@ -58,6 +58,14 @@ mapSlovak.set(
 mapSlovak.set("title6", "Algoritmy");
 mapSlovak.set("description6", "");
 
+
+mapSlovak.set("title7", "Softvérový nástroj na výučbu predmetu Numerické metódy");
+mapSlovak.set(
+  "description7",
+  "Web aplikácia, ktorej primárnym 
+cieľom je spestrenie a zefektívnenie práce študentov a vyučujúceho na predmete Numerické metódy"
+);
+
 const mapEnglish = new Map();
 
 mapEnglish.set("heading", "Hi, my name is Milos");
