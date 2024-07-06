@@ -62,8 +62,8 @@ mapSlovak.set("description6", "");
 mapSlovak.set("title7", "Softvérový nástroj na výučbu predmetu Numerické metódy");
 mapSlovak.set(
   "description7",
-  "Web aplikácia, ktorej primárnym 
-cieľom je spestrenie a zefektívnenie práce študentov a vyučujúceho na predmete Numerické metódy"
+  "Web aplikácia, ktorej primárnym" + 
+"cieľom je spestrenie a zefektívnenie práce študentov a vyučujúceho na predmete Numerické metódy"
 );
 
 const mapEnglish = new Map();
@@ -102,5 +102,5 @@ mapEnglish.set("title6", "Algorithms");
 mapEnglish.set("description6", "");
 
 mapEnglish.set("title7", "Software tool for teaching the subject of Numerical methods");
-mapEnglish.set("description7", "Web software 
-serving exclusively as a teaching aid for students of the Numerical Methods subject");
+mapEnglish.set("description7", "Web software" + 
+"serving exclusively as a teaching aid for students of the Numerical Methods subject");
