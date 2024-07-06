@@ -100,3 +100,7 @@ mapEnglish.set(
 
 mapEnglish.set("title6", "Algorithms");
 mapEnglish.set("description6", "");
+
+mapEnglish.set("title7", "Software tool for teaching the subject of Numerical methods");
+mapEnglish.set("description7", "Web software 
+serving exclusively as a teaching aid for students of the Numerical Methods subject");
