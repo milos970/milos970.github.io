@@ -59,8 +59,6 @@ mapSlovak.set("title6", "Algoritmy");
 mapSlovak.set("description6", "");
 
 
-mapSlovak.set("title7", "Softvérový nástroj na výučbu predmetu Numerické metódy");
-
 
 const mapEnglish = new Map();
 
@@ -97,5 +95,5 @@ mapEnglish.set(
 mapEnglish.set("title6", "Algorithms");
 mapEnglish.set("description6", "");
 
-mapEnglish.set("title7", "Software tool for teaching the subject of Numerical methods");
+
 
