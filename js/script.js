@@ -5,13 +5,13 @@ MY CODE
 function changeInPortfolioPage() {
   let lan = localStorage.getItem("lang");
 if (lan === "en") {
-  mapSlovak.forEach((value, key) => {
-    document.getElementById(key).textContent = value;
+  mapSlovak.forEach((values, keys) => {
+    document.getElementById(keys).textContent = values;
   });
   localStorage.setItem("lang", "sk");
 } else {
-  mapEnglish.forEach((value, key) => {
-    document.getElementById(key).textContent = value;
+  mapEnglish.forEach((values, keys) => {
+    document.getElementById(keys).textContent = values;
   });
   localStorage.setItem("lang", "en");
 }
