@@ -27,6 +27,7 @@ function pas() {
 
 const mapSlovak = new Map();
 mapSlovak.set("title7", "Softvérový nástroj na výučbu predmetu Numerické metódy");
+mapSlovak.set("description7", "Učebná pomôcka pre študentov predmetu Numerické metódy.");
 mapSlovak.set("heading", "Ahoj, volám sa Miloš");
 mapSlovak.set("description", "A toto je moje portfolio");
 
@@ -64,6 +65,9 @@ mapSlovak.set("description6", "");
 
 const mapEnglish = new Map();
 mapEnglish.set("title7", "Software tool for teaching the subject of Numerical methods");
+mapEnglish.set("description7", "Teaching aid for students of the Numerical Methods subject.");
+
+
 mapEnglish.set("heading", "Hi, my name is Milos");
 mapEnglish.set("description", "And this is my portfolio");
 
