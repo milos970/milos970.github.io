@@ -88,7 +88,7 @@ mapEnglish.set(
   "A simple story GUI app loosely inspired by the experiences of the AAA games Firewatch and Life Is Strange."
 );
 
-mapEnglish.set("title5", "XXXXX");
+mapEnglish.set("title5", "AUS");
 mapEnglish.set(
   "description5",
   "Processing of results from the population census of houses and apartments, which took place in 2021."
