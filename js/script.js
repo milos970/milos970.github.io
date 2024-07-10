@@ -4,19 +4,17 @@ MY CODE
 
 function changeInPortfolioPage() {
   let lan = localStorage.getItem("lang");
-if (lan === "en") {
-  mapSlovak.forEach((values, keys) => {
-    console.log(keys);
-    document.getElementById(keys).textContent = values;
-  });
-  localStorage.setItem("lang", "sk");
-} else {
-  mapEnglish.forEach((values, keys) => {
-     console.log(keys);
-    document.getElementById(keys).textContent = values;
-  });
-  localStorage.setItem("lang", "en");
-}
+  if (lan === "en") {
+    mapSlovak.forEach((values, keys) => {
+      document.getElementById(keys).textContent = values;
+      localStorage.setItem("lang", "sk");
+    });
+  } else {
+    mapEnglish.forEach((values, keys) => {
+      document.getElementById(keys).textContent = values;
+      localStorage.setItem("lang", "en");
+    });
+  }
 }
 
 function pas() {
