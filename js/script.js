@@ -58,7 +58,7 @@ mapSlovak.set(
   "Spracovanie výsledkov zo sčítania obyvateľov, domov a bytov, ktoré prebehlo v roku 2021."
 );
 
-mapSlovak.set("title6", "Specific task manager");
+mapSlovak.set("title6", "Specific task manager (v príprave)");
 mapSlovak.set("description6", "Správca úloh prispôsobený mojim potrebám, keďže väčšina bezplatných softvérových alternatív nie je pre moje účely vhodná. Tento softvér bude ideálny pre každého, koho osobný rastový ekosystém je podobný môjmu.");
 
 
@@ -98,7 +98,7 @@ mapEnglish.set(
   "Processing of results from the population census of houses and apartments, which took place in 2021."
 );
 
-mapEnglish.set("title6", "Specific task manager");
+mapEnglish.set("title6", "Specific task manager (ongoing)");
 mapEnglish.set("description6", "Task manager tailor-made to my needs, as most free software alternatives are unsuitable for my purposes. This software will be ideal for anyone whose personal growth ecosystem is similar to mine.");
 
 
