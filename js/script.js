@@ -59,7 +59,7 @@ mapSlovak.set(
 );
 
 mapSlovak.set("title6", "Specific task manager");
-mapSlovak.set("description6", "sdffsdfsdfsdfsdfsd");
+mapSlovak.set("description6", "Správca úloh prispôsobený mojim potrebám, keďže väčšina bezplatných softvérových alternatív nie je pre moje účely vhodná. Tento softvér bude ideálny pre každého, koho osobný rastový ekosystém je podobný môjmu.");
 
 
 
@@ -99,7 +99,7 @@ mapEnglish.set(
 );
 
 mapEnglish.set("title6", "Specific task manager");
-mapEnglish.set("description6", "fdsafdsadfafdasfsd");
+mapEnglish.set("description6", "Task manager tailor-made to my needs, as most free software alternatives are unsuitable for my purposes. This software will be ideal for anyone whose personal growth ecosystem is similar to mine.");
 
 
 
