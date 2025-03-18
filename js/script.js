@@ -58,8 +58,8 @@ mapSlovak.set(
   "Spracovanie výsledkov zo sčítania obyvateľov, domov a bytov, ktoré prebehlo v roku 2021."
 );
 
-mapSlovak.set("title6", "Algoritmy");
-mapSlovak.set("description6", "");
+mapSlovak.set("title6", "Specific task manager");
+mapSlovak.set("description6", "sdffsdfsdfsdfsdfsd");
 
 
 
@@ -98,8 +98,8 @@ mapEnglish.set(
   "Processing of results from the population census of houses and apartments, which took place in 2021."
 );
 
-mapEnglish.set("title6", "Algorithms");
-mapEnglish.set("description6", "");
+mapEnglish.set("title6", "Specific task manager");
+mapEnglish.set("description6", "fdsafdsadfafdasfsd");
 
 
 
