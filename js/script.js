@@ -102,7 +102,7 @@ mapEnglish.set(
   "Processing of results from the population census of houses and apartments, which took place in 2021."
 );
 
-mapEnglish.set("title6", "Specific task manager (ongoing)");
+mapEnglish.set("title6", "Specific task manager (in preparation)");
 mapEnglish.set("description6", "Task manager tailor-made to my needs, as most free software alternatives are unsuitable for my purposes. This software will be ideal for anyone whose personal growth ecosystem is similar to mine.");
 
 
