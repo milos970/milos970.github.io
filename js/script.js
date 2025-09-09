@@ -58,6 +58,8 @@ mapSlovak.set(
   "Spracovanie výsledkov zo sčítania obyvateľov, domov a bytov, ktoré prebehlo v roku 2021."
 );
 
+mapSlovak.set("title6", "Portfólio 2.0 (v príprave)");
+mapSlovak.set("description6", "");
 
 mapSlovak.set("title8", "Edukačný softvér V2 (v príprave)");
 mapSlovak.set("description8", "V rámci budúceho nasadenia aplikácie na školský server, bude backendová časť navrhnutá podľa architektúry MVC a funkcionality budú prístupné prostredníctvom REST API. " +
@@ -100,9 +102,12 @@ mapEnglish.set(
   "Processing of results from the population census of houses and apartments, which took place in 2021."
 );
 
+mapEnglish.set("title6", "Portfolio 2.0 (coming soon)");
+mapEnglish.set("description6", "");
 
 
-mapEnglish.set("title8", "Educational software (in preparation)");
+
+mapEnglish.set("title8", "Educational software (coming soon)");
 mapEnglish.set("description8", "As part of the future deployment of the application on the school server, the backend will be designed according to the MVC architecture, and the functionalities will be accessible through a REST API. " +
 "The client side will be implemented using the Angular framework, and the implementation of numerical methods will be moved to the server side, where it will be reimplemented in Java, resulting in improved performance and security of computations. " +
 "The application deployment will be carried out through containerization using the Docker tool. User authentication will be handled via the school’s LDAP server, and authorization will be managed through the built-in H2 RDBMS.");
